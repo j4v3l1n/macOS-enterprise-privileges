@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "made-in-berlin-badge.pdf"
+      "filename" : "pluralsight.pdf"
     },
     {
       "idiom" : "universal",
-      "filename" : "made-in-berlin-badge_dark.pdf",
+      "filename" : "pluralsight.pdf",
       "appearances" : [
         {
           "appearance" : "luminosity",
